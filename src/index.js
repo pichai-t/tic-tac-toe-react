@@ -2,6 +2,8 @@ import React from "react";
 import ReactDOM  from "react-dom/client";
 import "./index.css";
 
+// To Try: https://github.com/gitname/react-gh-pages
+
 // Youtube: https://www.youtube.com/watch?v=RatESimeqhA
 // Ref: https://reactjs.org/tutorial/tutorial.html
 
